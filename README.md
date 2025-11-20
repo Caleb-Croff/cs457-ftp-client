@@ -1,7 +1,6 @@
 # cs457-ftp-client
 FTP client for CS457 project
 
-# MODEL INSTRUCTIONS (FOR GPT-5)
 
 GOAL:
 Implement a Python FTP CLIENT (not server) using TCP sockets only (no external FTP libs).  
